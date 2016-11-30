@@ -1,0 +1,8 @@
++ initialize ?
++ Why???
++ local variables vs. instance variables vs. global variable ie. variable scope????
++ attr_reader, attr_writer, attr_accessor????
++ setting and getting???
++ theory vs. patterns vs. implementation????
++ private vs. public methods?????
++ is everything in ruby an object???????
